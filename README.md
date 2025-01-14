@@ -1,3 +1,10 @@
+Deployed app :-
+https://lets-connect-social-media.vercel.app/
+You can test for fun
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
